@@ -4,5 +4,5 @@ please fix them
 bug1 [x] fixed
 bug2 [x] fixed
 bug3 [x]fixed 
-bug4 []
+bug4 [x] fixed
 bug5 []
