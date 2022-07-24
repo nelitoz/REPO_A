@@ -1,8 +1,8 @@
 this is just a regular file
 I have some bugs in here
 please fix them
-bug1 [x]
+bug1 [x] fixed
 bug2 []
-bug3 []
+bug3 [x]fixed 
 bug4 []
 bug5 []
