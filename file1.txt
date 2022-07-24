@@ -2,7 +2,7 @@ this is just a regular file
 I have some bugs in here
 please fix them
 bug1 [x] fixed
-bug2 []
+bug2 [x] fixed
 bug3 [x]fixed 
 bug4 []
 bug5 []
