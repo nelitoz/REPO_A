@@ -1,0 +1,8 @@
+this is just a regular file
+I have some bugs in here
+please fix them
+bug1 [x]
+bug2 []
+bug3 []
+bug4 []
+bug5 []
