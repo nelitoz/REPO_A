@@ -1,0 +1,9 @@
+this is new file
+This file is an extention for features in this project
+this file has some bugs, fix them when possible.
+bug1[x]fixed
+bug2[]
+bug3[]
+bug4[]
+bug5[]
+bug6[]
